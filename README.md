@@ -3,8 +3,8 @@ In this project I applied Logistic Regression algorithm on the dataset called ir
 This project shows step-by-step process of model creation, training, evaluation, generating prediction results, and testing the best model on new data.
 
 Please install all the required Libraries first:
-pandas
-seaborn
-sklearn
-numpy
+pandas,
+seaborn,
+sklearn,
+numpy,
 matplotlib
